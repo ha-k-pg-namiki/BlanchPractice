@@ -18,4 +18,5 @@ int main()
 void DrawHelloWorld()
 {
 	printf("Hello World\n");
+	printf("Hello ローカル\n");
 }
